@@ -6,8 +6,8 @@
     "children": [
       {
         "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "AwesomeNetwork",
         "declAttributes": [
@@ -23,8 +23,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "NetworkMonitor",
-        "printedName": "NetworkMonitor",
+        "name": "Network",
+        "printedName": "Network",
         "children": [
           {
             "kind": "Var",
@@ -39,8 +39,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:14AwesomeNetwork0B7MonitorC9connectedSbvp",
-            "mangledName": "$s14AwesomeNetwork0B7MonitorC9connectedSbvp",
+            "usr": "s:14AwesomeNetwork0B0C9connectedSbvp",
+            "mangledName": "$s14AwesomeNetwork0B0C9connectedSbvp",
             "moduleName": "AwesomeNetwork",
             "declAttributes": [
               "HasInitialValue",
@@ -63,8 +63,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:14AwesomeNetwork0B7MonitorC9connectedSbvg",
-                "mangledName": "$s14AwesomeNetwork0B7MonitorC9connectedSbvg",
+                "usr": "s:14AwesomeNetwork0B0C9connectedSbvg",
+                "mangledName": "$s14AwesomeNetwork0B0C9connectedSbvg",
                 "moduleName": "AwesomeNetwork",
                 "implicit": true,
                 "accessorKind": "get"
@@ -87,8 +87,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:14AwesomeNetwork0B7MonitorC9connectedSbvs",
-                "mangledName": "$s14AwesomeNetwork0B7MonitorC9connectedSbvs",
+                "usr": "s:14AwesomeNetwork0B0C9connectedSbvs",
+                "mangledName": "$s14AwesomeNetwork0B0C9connectedSbvs",
                 "moduleName": "AwesomeNetwork",
                 "implicit": true,
                 "accessorKind": "set"
@@ -105,8 +105,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:14AwesomeNetwork0B7MonitorC9connectedSbvM",
-                "mangledName": "$s14AwesomeNetwork0B7MonitorC9connectedSbvM",
+                "usr": "s:14AwesomeNetwork0B0C9connectedSbvM",
+                "mangledName": "$s14AwesomeNetwork0B0C9connectedSbvM",
                 "moduleName": "AwesomeNetwork",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -120,14 +120,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "NetworkMonitor",
-                "printedName": "AwesomeNetwork.NetworkMonitor",
-                "usr": "s:14AwesomeNetwork0B7MonitorC"
+                "name": "Network",
+                "printedName": "AwesomeNetwork.Network",
+                "usr": "s:14AwesomeNetwork0B0C"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:14AwesomeNetwork0B7MonitorCACycfc",
-            "mangledName": "$s14AwesomeNetwork0B7MonitorCACycfc",
+            "usr": "s:14AwesomeNetwork0B0CACycfc",
+            "mangledName": "$s14AwesomeNetwork0B0CACycfc",
             "moduleName": "AwesomeNetwork",
             "declAttributes": [
               "AccessControl"
@@ -136,8 +136,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "s:14AwesomeNetwork0B7MonitorC",
-        "mangledName": "$s14AwesomeNetwork0B7MonitorC",
+        "usr": "s:14AwesomeNetwork0B0C",
+        "mangledName": "$s14AwesomeNetwork0B0C",
         "moduleName": "AwesomeNetwork",
         "declAttributes": [
           "AccessControl",
@@ -175,14 +175,14 @@
     {
       "filePath": "\/Users\/manasvijaywargiya\/Desktop\/Lib of SwiftUI iOS Apps\/Framework\/AwesomeNetwork\/AwesomeNetwork\/AwesomeNetwork.swift",
       "kind": "StringLiteral",
-      "offset": 709,
+      "offset": 705,
       "length": 9,
       "value": "\"Monitor\""
     },
     {
       "filePath": "\/Users\/manasvijaywargiya\/Desktop\/Lib of SwiftUI iOS Apps\/Framework\/AwesomeNetwork\/AwesomeNetwork\/AwesomeNetwork.swift",
       "kind": "BooleanLiteral",
-      "offset": 802,
+      "offset": 798,
       "length": 5,
       "value": "false"
     }
