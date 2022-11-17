@@ -1,0 +1,190 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "AwesomeNetwork",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "AwesomeNetwork"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NetworkMonitor",
+        "printedName": "NetworkMonitor",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "connected",
+            "printedName": "connected",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14AwesomeNetwork0B7MonitorC9connectedSbvp",
+            "mangledName": "$s14AwesomeNetwork0B7MonitorC9connectedSbvp",
+            "moduleName": "AwesomeNetwork",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14AwesomeNetwork0B7MonitorC9connectedSbvg",
+                "mangledName": "$s14AwesomeNetwork0B7MonitorC9connectedSbvg",
+                "moduleName": "AwesomeNetwork",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14AwesomeNetwork0B7MonitorC9connectedSbvs",
+                "mangledName": "$s14AwesomeNetwork0B7MonitorC9connectedSbvs",
+                "moduleName": "AwesomeNetwork",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14AwesomeNetwork0B7MonitorC9connectedSbvM",
+                "mangledName": "$s14AwesomeNetwork0B7MonitorC9connectedSbvM",
+                "moduleName": "AwesomeNetwork",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NetworkMonitor",
+                "printedName": "AwesomeNetwork.NetworkMonitor",
+                "usr": "s:14AwesomeNetwork0B7MonitorC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14AwesomeNetwork0B7MonitorCACycfc",
+            "mangledName": "$s14AwesomeNetwork0B7MonitorCACycfc",
+            "moduleName": "AwesomeNetwork",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14AwesomeNetwork0B7MonitorC",
+        "mangledName": "$s14AwesomeNetwork0B7MonitorC",
+        "moduleName": "AwesomeNetwork",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "ObservableObject",
+            "printedName": "ObservableObject",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ObjectWillChangePublisher",
+                "printedName": "ObjectWillChangePublisher",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObservableObjectPublisher",
+                    "printedName": "Combine.ObservableObjectPublisher",
+                    "usr": "s:7Combine25ObservableObjectPublisherC"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7Combine16ObservableObjectP",
+            "mangledName": "$s7Combine16ObservableObjectP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/manasvijaywargiya\/Desktop\/Lib of SwiftUI iOS Apps\/Framework\/AwesomeNetwork\/AwesomeNetwork\/AwesomeNetwork.swift",
+      "kind": "StringLiteral",
+      "offset": 709,
+      "length": 9,
+      "value": "\"Monitor\""
+    },
+    {
+      "filePath": "\/Users\/manasvijaywargiya\/Desktop\/Lib of SwiftUI iOS Apps\/Framework\/AwesomeNetwork\/AwesomeNetwork\/AwesomeNetwork.swift",
+      "kind": "BooleanLiteral",
+      "offset": 802,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}
