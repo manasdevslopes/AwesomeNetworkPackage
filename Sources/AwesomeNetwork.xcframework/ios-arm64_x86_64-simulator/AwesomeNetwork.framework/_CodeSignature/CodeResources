@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zB4/oL0skUkSAN3+e/5jO2IBeQ4=
+		vTW3w/OuwX7FtKn0fRJq6e/zyrs=
 		</data>
 		<key>Modules/AwesomeNetwork.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		g+HiIV9kmFRHdjLs9DADGxlVuAg=
+		uIMFQZiXsCMO8La4ya5xRwSUzSU=
 		</data>
 		<key>Modules/AwesomeNetwork.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		JyoIGGkG1J1WjzdcM5E1c/TudbM=
+		pM2slPZFhRGeb5qn/Da5QHx7aoE=
 		</data>
 		<key>Modules/AwesomeNetwork.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		PW6cFj6wIhzxDmqfzhdKizDSu80=
+		16oI03Q2F2Kz0OR7V05BE4q+1XE=
 		</data>
 		<key>Modules/AwesomeNetwork.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		JyoIGGkG1J1WjzdcM5E1c/TudbM=
+		pM2slPZFhRGeb5qn/Da5QHx7aoE=
 		</data>
 		<key>Modules/AwesomeNetwork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pivY4Z1MpS/Mfr49P+o3zygcKJc=
+		4YAamg/Wy1nqspVf+k/C/mlyLB4=
 		</data>
 		<key>Modules/AwesomeNetwork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		g+HiIV9kmFRHdjLs9DADGxlVuAg=
+		uIMFQZiXsCMO8La4ya5xRwSUzSU=
 		</data>
 		<key>Modules/AwesomeNetwork.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		adCVZpLaD2yZrgzlktx0gH/Yxow=
+		KFOXah2rc33rBff06WHyFyGmbGY=
 		</data>
 		<key>Modules/AwesomeNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		opKHHclnJ26oMiIyriCFl0qUHq4=
+		eDxEgjiiB3g43dofFm+qBN/h0FY=
 		</data>
 		<key>Modules/AwesomeNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		adCVZpLaD2yZrgzlktx0gH/Yxow=
+		KFOXah2rc33rBff06WHyFyGmbGY=
 		</data>
 		<key>Modules/AwesomeNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		udT4stagXjlwL2jxk0CFayRzqzs=
+		4OYTnr2ujML7s2JUK6Hn8qrS9xQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,70 +81,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			itOtTyS8bMBGmWBEQQzNVjmIgFUinLSkSMtR2CbqBGI=
+			r1Wtm/hTF1hUkd0ym8MzMjyfqpgRg7dUzYy8RwmHvf0=
 			</data>
 		</dict>
 		<key>Modules/AwesomeNetwork.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			phFigOIYMOAAQBQzKStTfx1stCM5GojBVW504tNNElI=
+			BufrD/eIgA0pwtcr6Mp2ZL5kNqINran1AR+Ujphiq6I=
 			</data>
 		</dict>
 		<key>Modules/AwesomeNetwork.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/nrt+ckgU9CJRWdFA1P8Q2z1GfdKsetN5gokCVZEG14=
+			5Sw8j6NkvAp8037tCptxzRf30lmbYtX6Wm90T/jkm+U=
 			</data>
 		</dict>
 		<key>Modules/AwesomeNetwork.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			phFigOIYMOAAQBQzKStTfx1stCM5GojBVW504tNNElI=
+			BufrD/eIgA0pwtcr6Mp2ZL5kNqINran1AR+Ujphiq6I=
 			</data>
 		</dict>
 		<key>Modules/AwesomeNetwork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U/bMNur2Xl6zETdWyllTi5u3dKM/LDLTNJ3+Q5NTEzk=
+			r2350+lz7i44x20KVfEvMtN8kmIz01mZNQ92MUDA1xs=
 			</data>
 		</dict>
 		<key>Modules/AwesomeNetwork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			itOtTyS8bMBGmWBEQQzNVjmIgFUinLSkSMtR2CbqBGI=
+			r1Wtm/hTF1hUkd0ym8MzMjyfqpgRg7dUzYy8RwmHvf0=
 			</data>
 		</dict>
 		<key>Modules/AwesomeNetwork.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pcvd2apoRivDqR9xBb19dAJmskPgaIiL+q1WTKhop+4=
+			ATei29gPqE2JyXpbPjDJ+2MP6YOLBeRToegLlIifOXM=
 			</data>
 		</dict>
 		<key>Modules/AwesomeNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qrbj4ruWeNQzCxWHHpkm1oQqSUOkpcIpyERXxDO0pxE=
+			aO2dc6QY2dXzQjUkELSKjY06Wt6+cDcUAOPqDabUpDs=
 			</data>
 		</dict>
 		<key>Modules/AwesomeNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pcvd2apoRivDqR9xBb19dAJmskPgaIiL+q1WTKhop+4=
+			ATei29gPqE2JyXpbPjDJ+2MP6YOLBeRToegLlIifOXM=
 			</data>
 		</dict>
 		<key>Modules/AwesomeNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gdnqg9tmV4CMWVOAq4rJuu5gptTUrphUpqm9UeIoh3w=
+			w43X+IWD//CreupGHk/XAerBmSRcy66+sI6v8KssmwI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

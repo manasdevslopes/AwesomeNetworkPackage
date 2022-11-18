@@ -1,14 +1,15 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
-// swift-module-flags: -target x86_64-apple-ios16.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name AwesomeNetwork
+// swift-module-flags: -target x86_64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name AwesomeNetwork
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 @_exported import AwesomeNetwork
+import Combine
 import Foundation
 import Network
 import Swift
 import _Concurrency
 import _StringProcessing
-public class Network : Foundation.ObservableObject {
+public class NetworkConnection : Foundation.ObservableObject {
   public var connected: Swift.Bool
   public init()
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
