@@ -49,6 +49,7 @@
             "usr": "s:14AwesomeNetwork0B10ConnectionC9connectedSbvp",
             "mangledName": "$s14AwesomeNetwork0B10ConnectionC9connectedSbvp",
             "moduleName": "AwesomeNetwork",
+            "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
               "HasStorage",
@@ -74,6 +75,7 @@
                 "mangledName": "$s14AwesomeNetwork0B10ConnectionC9connectedSbvg",
                 "moduleName": "AwesomeNetwork",
                 "implicit": true,
+                "isOpen": true,
                 "accessorKind": "get"
               },
               {
@@ -98,6 +100,7 @@
                 "mangledName": "$s14AwesomeNetwork0B10ConnectionC9connectedSbvs",
                 "moduleName": "AwesomeNetwork",
                 "implicit": true,
+                "isOpen": true,
                 "accessorKind": "set"
               },
               {
@@ -116,6 +119,7 @@
                 "mangledName": "$s14AwesomeNetwork0B10ConnectionC9connectedSbvM",
                 "moduleName": "AwesomeNetwork",
                 "implicit": true,
+                "isOpen": true,
                 "accessorKind": "_modify"
               }
             ]
@@ -146,6 +150,7 @@
         "usr": "s:14AwesomeNetwork0B10ConnectionC",
         "mangledName": "$s14AwesomeNetwork0B10ConnectionC",
         "moduleName": "AwesomeNetwork",
+        "isOpen": true,
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
@@ -182,14 +187,14 @@
     {
       "filePath": "\/Users\/manasvijaywargiya\/Desktop\/Lib of SwiftUI iOS Apps\/Framework\/AwesomeNetwork\/AwesomeNetwork\/AwesomeNetwork.swift",
       "kind": "StringLiteral",
-      "offset": 730,
+      "offset": 737,
       "length": 9,
       "value": "\"Monitor\""
     },
     {
       "filePath": "\/Users\/manasvijaywargiya\/Desktop\/Lib of SwiftUI iOS Apps\/Framework\/AwesomeNetwork\/AwesomeNetwork\/AwesomeNetwork.swift",
       "kind": "BooleanLiteral",
-      "offset": 823,
+      "offset": 828,
       "length": 5,
       "value": "false"
     }

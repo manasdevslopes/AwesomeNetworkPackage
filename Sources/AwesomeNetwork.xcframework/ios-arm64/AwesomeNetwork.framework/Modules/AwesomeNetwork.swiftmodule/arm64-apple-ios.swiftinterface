@@ -9,8 +9,8 @@ import Network
 import Swift
 import _Concurrency
 import _StringProcessing
-public class NetworkConnection : Foundation.ObservableObject {
-  public var connected: Swift.Bool
+open class NetworkConnection : Foundation.ObservableObject {
+  open var connected: Swift.Bool
   public init()
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit
