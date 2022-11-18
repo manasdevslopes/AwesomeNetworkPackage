@@ -37,7 +37,7 @@
 <p>The <a href="https://swift.org/package-manager/" rel="nofollow">Swift Package Manager</a> is a tool for managing the distribution of Swift code. It’s integrated with the Swift build system to automate the process of downloading, compiling, and linking dependencies.</p>
 
 <p>To integrate <code>AwesomeNetwork</code> into your Xcode project using Xcode 12, specify it in <code>File &gt; Swift Packages &gt; Add Package Dependency...</code>:</p>
-<p>To integrate <code>AwesomeToast</code> into your Xcode project using Xcode 13, specify it in <code>File &gt; Add Packages</code>:</p>
+<p>To integrate <code>AwesomeNetwork</code> into your Xcode project using Xcode 13, specify it in <code>File &gt; Add Packages</code>:</p>
 
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre lang="ogdl"><code>https://github.com/manasdevslopes/AwesomeNetworkPackage.git</code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="https://github.com/manasdevslopes/AwesomeToastPackage.git" tabindex="0" role="button">
